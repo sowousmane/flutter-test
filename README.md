@@ -1,6 +1,9 @@
 # my_http_project
 
-A new Flutter project.
+Create a new Flutter project.
+and copy the content of lib here in your lib folder.
+
+for more information contact me :)
 
 ## Getting Started
 
